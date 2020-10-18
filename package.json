@@ -1,0 +1,27 @@
+{
+  "name": "thirukkural-js",
+  "version": "1.0.0",
+  "description": "Thirukkural JavaScript Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harikrish/tirrukural-js.git"
+  },
+  "keywords": [
+    "Thirukkural"
+  ],
+  "author": "Harikrishnan Anandan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harikrish/tirrukural-js/issues"
+  },
+  "homepage": "https://github.com/harikrish/tirrukural-js#readme",
+  "devDependencies": {
+    "jest": "^26.5.3",
+    "standard": "^14.3.4"
+  }
+}
