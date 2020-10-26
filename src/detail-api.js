@@ -20,7 +20,7 @@ function getChapter (chapters, index) {
   return chapters[index]
 }
 
-function getChapterNumber(chapter) {
+function getChapterNumber (chapter) {
   return chapter.number
 }
 

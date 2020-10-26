@@ -32,7 +32,7 @@ function getKuralExplanation (kuralDetails) {
   return kuralDetails.explanation
 }
 
-function getKuralNumber(kuralDetails) {
+function getKuralNumber (kuralDetails) {
   return kuralDetails.Number
 }
 
