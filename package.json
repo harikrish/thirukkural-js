@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/harikrish/tirrukural-js.git"
+    "url": "git+https://github.com/harikrish/thirukkural-js.git"
   },
   "keywords": [
     "Thirukkural"
@@ -17,9 +17,9 @@
   "author": "Harikrishnan Anandan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/harikrish/tirrukural-js/issues"
+    "url": "https://github.com/harikrish/thirukkural-js/issues"
   },
-  "homepage": "https://github.com/harikrish/tirrukural-js#readme",
+  "homepage": "https://github.com/harikrish/thirukkural-js#readme",
   "devDependencies": {
     "jest": "^26.5.3",
     "standard": "^14.3.4",
